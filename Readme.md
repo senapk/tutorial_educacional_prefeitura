@@ -10,38 +10,29 @@
 ## Conteúdo
 
 <!--TOC_BEGIN-->
-- [Motivação](#motivação)
-- [Conteúdo](#conteúdo)
 - [Gravação](#gravação)
     - [Usando material físico](#usando-material-físico)
         - [Preparação](#preparação)
             - [Suporte vertical utilizando algo da sua casa](#suporte-vertical-utilizando-algo-da-sua-casa)
             - [Construindo ou adaptando um suporte vertical](#construindo-ou-adaptando-um-suporte-vertical)
-        - [Gravando](#gravando)
+        - [Gravação](#gravação)
         - [**Open Camera**](#open-camera)
     - [Usando material digital](#usando-material-digital)
         - [Preparação](#preparação)
         - [Gravação](#gravação)
     - [Dicas importantes](#dicas-importantes)
 - [Editando seu vídeo](#editando-seu-vídeo)
+    - [Operações de edição básicas](#operações-de-edição-básicas)
+    - [Softwares de edição](#softwares-de-edição)
+        - [Vlogit](#vlogit)
+        - [Youcut](#youcut)
 - [Publicando seu vídeo](#publicando-seu-vídeo)
+    - [Youtube ](#youtube)
+    - [Google Grive](#google-grive)
+    - [Whatsapp](#whatsapp)
 
 <!--TOC_END-->
 
-___
-- [Gravação](#Gravação):
-    - [Usando material físico](#Usando-material-f%C3%ADsico)
-        - Papel, Livro, Apostila, lápis, caneta, ...
-    - [Usando material digital](#Usando-material-digital)
-        - Arquivo em pdf, doc, slide ou direto do navegador.
-- Edição básica
-    - Recortar trechos indesejados: início, meio ou fim.
-    - Recortar as bordas: operação de crop.
-    - Juntar ou separar vídeos.
-- Publicação
-    - Youtube
-    - Google Drive
-    - Whatsapp
 
 ## Gravação
 ### Usando material físico
@@ -121,11 +112,13 @@ ___
 
 ## Publicando seu vídeo
 
-- Youtube: 
+### Youtube 
     - Público ou Privado
     - Playlists
 [![](publicando_youtube.png)](https://www.youtube.com/watch?v=VCw6v7DbHvQ&t=1515s)
     - Vídeo enviando do aplicativo do youtube do celular **EM CONSTRUÇÃO**
 
-- Enviando para o google drive **EM CONSTRUÇÃO**
+### Google Grive
+- **EM CONSTRUÇÃO**
+### Whatsapp
 - Enviando para o whatsapp **EM CONSTRUÇÃO**
